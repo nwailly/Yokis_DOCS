@@ -12,7 +12,7 @@
 - pas de gestion des parametre il faut encore utiliser l'aplication officiel YNO
 - Mot de passe Firebird rentré à la mano.( ne sert que l'ors de la récupération initiale du mot de passe du HUB)
 
-# 28/06/2022
+# 06/07/2022
 
 - Version 1.0.0.1
 - correction mineur sur l'authentification
