@@ -18,3 +18,7 @@
 - correction mineur sur l'authentification
 - Ajout de la possibilité d'associer un compte utilisateur invité( non Admin) à l'étape 1 de l'apairage.
 Biensur le nom des modules ne sera synchronisé qu'avec les modules que l'invité voit dans YNO.
+
+# 31/07/2022
+
+- Ajout module type 57 ( variateur identique type 1)
