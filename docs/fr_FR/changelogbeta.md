@@ -11,3 +11,8 @@
 - Récupération du nom des module à la premiére intégration 
 - pas de gestion des parametre il faut encore utiliser l'aplication officiel YNO
 - Mot de passe Firebird rentré à la mano.( ne sert que l'ors de la récupération initiale du mot de passe du HUB)
+
+
+# 31/07/2022
+
+- Ajout module type 57 ( variateur identique type 1)
