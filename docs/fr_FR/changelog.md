@@ -22,3 +22,7 @@ Biensur le nom des modules ne sera synchronis√© qu'avec les modules que l'invit√
 # 31/07/2022
 
 - Ajout module type 57 ( variateur identique type 1)
+
+# 24/08/2022
+
+- Modification d'une vigette loggo pour Fabrice
