@@ -21,6 +21,6 @@
 
 - Modification d'une vigette loggo pour Fabrice
 
-#26/11/2022
+# 26/11/2022
 
 - Ajout de codes modules (mtv50XXX,mvr500XXX et mtr2000XXX) 
