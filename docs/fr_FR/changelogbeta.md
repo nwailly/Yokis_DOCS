@@ -24,3 +24,8 @@
 # 26/11/2022
 
 - Ajout de codes modules (mtv50XXX,mvr500XXX et mtr2000XXX) 
+
+
+# 27/11/2022
+
+- Ajout des commandes On et OFF des modules code 8,47 (MTR) , 6 et 24(MVR)
