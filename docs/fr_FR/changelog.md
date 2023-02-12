@@ -34,3 +34,7 @@ Biensur le nom des modules ne sera synchronis√© qu'avec les modules que l'invit√
 # 27/11/2022
 
 - Ajout des commandes On et OFF des modules code 8,47 (MTR) , 6 et 24(MVR)
+
+# 12/02/2023
+
+- Ajout du module 51
